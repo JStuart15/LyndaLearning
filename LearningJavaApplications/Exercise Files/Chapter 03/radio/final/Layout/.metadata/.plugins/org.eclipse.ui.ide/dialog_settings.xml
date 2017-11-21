@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/ldc/Documents/uar_java_apps/Exercise Files/Chapter 05/jar_in_project/start/Project2"/>
+			<item value="/Users/ldc/Documents/uar_java_apps/Exercise Files/Chapter 05/jar_in_project/start/Project1"/>
+			<item value="/Users/ldc/Documents/uar_java_apps/Exercise Files/Chapter 04/tables/start/Layout"/>
+			<item value="/Users/ldc/Documents/uar_java_apps/Exercise Files/Chapter 04"/>
+			<item value="/Users/ldc/Documents/uar_java_apps/Exercise Files/Chapter 03/radio/final/Layout"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.frankmoley.ReservationsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.61 sec - in com.frankmoley.ReservationsApplicationTests

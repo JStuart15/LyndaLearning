@@ -1,0 +1,13 @@
+
+public class Review {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Review.exampleStatic();
+	}
+	
+	public static void exampleStatic() {
+		System.out.println("exampleStatic");
+	}
+
+}

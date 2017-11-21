@@ -1,0 +1,17 @@
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class Review {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		BufferedReader reader = new BufferedReader(new FileReader("hello"));
+		String data;
+		while ((data = reader.readLine()) != null) {
+			System.out.println(data);
+		}
+	}
+
+}

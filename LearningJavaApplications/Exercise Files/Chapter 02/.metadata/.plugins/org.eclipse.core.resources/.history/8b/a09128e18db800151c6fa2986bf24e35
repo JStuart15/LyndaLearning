@@ -1,0 +1,14 @@
+
+public class Review {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String[] breakfast = new String[3];
+		breakfast[0] = "Bacon";
+		breakfast[1] = "Eggs";
+		breakfast[2] = "Toast";
+		
+		System.out.println(breakfast[0]);
+	}
+
+}

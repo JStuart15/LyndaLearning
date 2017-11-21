@@ -1,0 +1,9 @@
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/data/repository/ReservationRepository.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/data/repository/GuestRepository.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/data/entity/Room.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/business/service/ReservationService.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/ReservationsApplication.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/data/entity/Reservation.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/business/domain/RoomReservation.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/data/repository/RoomRepository.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 3/03_02/03_02_end/reservations/src/main/java/com/frankmoley/landon/data/entity/Guest.java

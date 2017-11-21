@@ -1,0 +1,21 @@
+{
+  "name": "testing-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack"
+  },
+  "keywords": [
+    "webpack",
+    "es6"
+  ],
+  "author": "Eve Porcello",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.1.0"
+  }
+}

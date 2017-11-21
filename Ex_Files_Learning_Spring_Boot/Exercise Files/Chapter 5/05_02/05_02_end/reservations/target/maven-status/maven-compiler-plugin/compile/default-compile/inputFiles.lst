@@ -1,0 +1,11 @@
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/data/entity/Room.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/data/entity/Guest.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/business/service/ReservationService.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/data/repository/ReservationRepository.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/ReservationsApplication.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/data/entity/Reservation.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/web/application/ReservationController.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/data/repository/GuestRepository.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/data/repository/RoomRepository.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/business/domain/RoomReservation.java
+/home/jstuart15/Documents/lynda.com/Ex_Files_Learning_Spring_Boot/Exercise Files/Chapter 5/05_02/05_02_end/reservations/src/main/java/com/frankmoley/landon/web/service/ReservationServiceController.java
