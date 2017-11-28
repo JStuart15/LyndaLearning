@@ -21,3 +21,8 @@ def over_five?
 	value = 3
 	puts value > 5 ? 'Over 5' : 'Not over 5'
 end
+
+welcome
+longest_word
+over_five?
+add
