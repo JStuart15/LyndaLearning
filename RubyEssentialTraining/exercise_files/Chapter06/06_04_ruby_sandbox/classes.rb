@@ -1,17 +1,12 @@
 class Animal
-  def set_noise(noise)
-    @noise = noise
-  end
+  attr_accessor :noise
   
-  def make_noise
-    @noise
-  end
 end
 
 animal1 = Animal.new
-animal1.set_noise("Moo!")
-puts animal1.make_noise
+animal1.noise = "Moo!"
+puts animal1.noise
 
 animal2 = Animal.new
-animal2.set_noise("Quack!")
-puts animal2.make_noise
+animal2.noise = "Quack!"
+puts animal2.noise
