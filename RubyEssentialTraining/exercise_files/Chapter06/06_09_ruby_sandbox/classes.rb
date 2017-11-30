@@ -5,17 +5,25 @@ class Animal
 
   @@species = ['cat', 'cow', 'dog', 'duck', 'horse', 'pig']
   @@current_animals = []
-  
-  def self.all_species
+
+  def self.species
     @@species
   end
-  
+
+  def self.species=(array=[])
+    @@species = array
+  end
+
+  def self.current_animals
+    @@current_animals
+  end
+
   def self.create_with_attributes(noise, color)
     animal = self.new(noise)
     animal.color = color
     return animal
   end
-  
+
   def initialize(noise, legs=4, arms=0)
     @noise = noise
     @legs = legs
@@ -23,21 +31,22 @@ class Animal
     @@current_animals << self
     puts "A new animal has been instantiated."
   end
-  
+
   def noise=(noise)
     @noise = noise
   end
-  
+
   def noise
     @noise
   end
-  
+
   def color
     "The color is #{@color}."
   end
 end
 
-puts Animal.all_species.inspect
+Animal.species = ['frog', 'fish']
+puts Animal.species.inspect
 
 animal1 = Animal.new("Moo!", 4, 0)
 animal1.name = "Steve"
@@ -51,4 +60,4 @@ animal2 = Animal.create_with_attributes("Quack!", "white")
 puts animal2.noise
 puts animal2.color
 
-puts Animal.current_animals.inspect
+puts Animal.current_animals. inspect
