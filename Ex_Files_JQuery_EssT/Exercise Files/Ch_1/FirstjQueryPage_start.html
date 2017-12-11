@@ -6,8 +6,13 @@
     <link rel="stylesheet" href="../style.css" />
 
     <!-- insert the script to reference jQuery here -->
-
+    <script src="../jquery-3.0.0.js"></script>
     <!-- insert the script to display the Hello World message here -->
+    <script>
+        $("document").ready(function({
+            $("#content").append("<p>The page just loaded</p>")
+        }))
+    </script>
 </head>
 
 <body>
